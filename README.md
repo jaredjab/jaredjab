@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaredjab
 - 👀 I’m interested in natural science, esports, video games, art, automation, and problem solving.
 - 🌱 I’m currently building on my data analytics skills (Python, SQL, Tableau, Power BI)
-- 📫 How to reach me: Connect with me on LinkedIn! https://www.linkedin.com/in/jaredjab/
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredjab/)!
 - ⚡ Fun facts:
   - All the pokemon would beat 1 billion lions.
   - There has GOT to be more wheels than doors.
