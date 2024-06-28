@@ -1,4 +1,4 @@
-HELLO, I'm Jared. Jab for usernames.
+Hello, I'm Jared! Jab for usernames.
 
 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredjab/)!
 
