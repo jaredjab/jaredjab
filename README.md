@@ -1,6 +1,6 @@
 Hello, I'm Jared! Jab for usernames.
 
-**How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredjab/)!
+**How to reach me**: Connect with & message me on [LinkedIn](https://www.linkedin.com/in/jaredjab/)!
 
 As a **Data Analyst** at Nashville Software School, I learned and applied data analytics fundamentals and problem-solving skills to real-world datasets and projects. With the help of expert instructors and mentors, I have gained proficiency in various tools and techniques, such as **SQL**, **Python**, **Tableau**, **Power BI**, **Excel**, **APIs**, **webscraping**, **geospatial analysis**, and **project management**. I have presented my findings and recommendations to stakeholders from the community, demonstrating effective communication and collaboration skills.
 
