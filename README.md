@@ -6,7 +6,7 @@ As a **Data Analyst** at Nashville Software School, I learned and applied data a
 
 I also have a partial bachelor's degree in **computer science**, and a background in **graphic design**, and a lifetime of learning tools and solving puzzles. I have a unique perspective and a strong foundation in **logic**, **troubleshooting**, and **design principles**. I am passionate about automation, astronomy, nature, esports, art, and having new experiences. **I am actively seeking career opportunities that will support my growth as a data and software professional**, and that will allow me to leverage my data analytics skills to make a positive impact with actionable insights.
 
-In my time at SNHU, I also learned Object-Oriented Programming, Agile Methodologies, Product Design Documentation, and more foundational concepts. At SNHU I used Python, Java, and C++. While my focus is data analytics, I am also interested in pursuing **full stack software development** and **data engineering**.
+In my time at SNHU, I also learned Object-Oriented Programming, Agile Methodologies, Product Design Documentation, and more foundational concepts. At SNHU I used Python, Java, and C++. While my focus is data analytics, I am also very interested in pursuing **full stack software development** and **data engineering**.
 
 - 👀 I’m interested in natural science, esports, video games, art, yoga, automation, F1, and food.
 
